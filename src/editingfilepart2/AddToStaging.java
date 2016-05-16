@@ -9,8 +9,11 @@ package editingfilepart2;
  *
  * @author Mahboobeh
  */
-public class RepoModified {
+public class AddToStaging {
     public static void main(String[] args) {
-        System.out.println("Modified this new File !!!");
+        
+    }
+    public void test(){
+        System.out.println("Test");
     }
 }

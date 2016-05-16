@@ -9,13 +9,10 @@ package editingfilepart2;
  *
  * @author Mahboobeh
  */
-public class EditingFilePart2 {
-
-    /**
-     * @param args the command line arguments
-     */
+public class StagingModified {
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Modifeid this file");
+        System.out.println("Modifeid double");
     }
-    
+   
 }

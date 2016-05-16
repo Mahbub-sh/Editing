@@ -10,5 +10,7 @@ package editingfilepart2;
  * @author Mahboobeh
  */
 public class RepoStagingModified {
-    
+    public static void main(String[] args) {
+        System.out.println("Modified");
+    }
 }

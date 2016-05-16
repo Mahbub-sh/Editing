@@ -3,14 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package editingfilepart2;
 
 /**
  *
  * @author Mahboobeh
  */
-public class RepoModified {
-    public static void main(String[] args) {
-        System.out.println("Modified this new File !!!");
-    }
+public class ForView {
+    
 }

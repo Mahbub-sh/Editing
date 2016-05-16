@@ -9,6 +9,6 @@ package editingfilepart2;
  *
  * @author Mahboobeh
  */
-public class Delete {
+public class InWorking {
     
 }

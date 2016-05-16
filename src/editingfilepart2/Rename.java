@@ -9,8 +9,13 @@ package editingfilepart2;
  *
  * @author Mahboobeh
  */
-public class RepoModified {
+public class Rename {
+
+    /**
+     * @param args the command line arguments
+     */
     public static void main(String[] args) {
-        System.out.println("Modified this new File !!!");
+        // TODO code application logic here
     }
+    
 }
